@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 # dc-heroes
 
 ### Actualizado desde GitHub
-Mensaje actualizado :)
+Mensaje actualizado
